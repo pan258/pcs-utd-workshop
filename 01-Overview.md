@@ -10,4 +10,4 @@ Before beginning of this workshop, make sure you have a laptop/desktop with a re
 ![alt text](/resources/cloudshare-screen-1.png)
 Note: You can leverage the **keyboard > send text** feature inside of CloudShare when the guide instructs you to copy/paste linux commands. Also note that when copying/pasting commands, make sure to remove the line breaks if any before commands are executed.
 
-Once you are able to access the items above, you can move on to the next section [here](/02-Assignment-1-1.md)!
+Once you are able to access the items above, you can move on to the next section [here](/02-Assignment-1-0.md)!
