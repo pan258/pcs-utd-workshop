@@ -104,7 +104,7 @@ Note: The lab uses a read-only user, which doesn’t have access to generate a c
 
     ![alt text](resources/pcs-screen-111.png)
 
-    Note: As you're accessing Prisma Cloud via a full screen remote desktop, you're might not be able to view the downloaded document. For a sample NIST report, you can refer to a sample document [here](/resources/NIST_SAMPLE_REPORT.pdf).
+    Note: As you're accessing Prisma Cloud via a full screen remote desktop, you're might not be able to view the downloaded document. For a sample NIST report, you can refer to a sample document [here](/resources/AWS_NIST_SAMPLE_REPORT.pdf).
 
     Note: You can schedule a compliance report to be sent to specific team or team members in a regular basis (weekly, daily, etc).
 
