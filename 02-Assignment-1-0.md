@@ -34,3 +34,5 @@ setup with an initial password for your Prisma Cloud account.
 6. Once you have successfully logged in, you should arrive at a screen where you can customize your Prisma Cloud Experience. Click on Start Using Prisma Cloud
 
     ![alt text](/resources/cloudshare-pcslogin-screen-5.png)
+
+Once you are able to access the items above, you can move on to the next section [here](/02-Assignment-1-1.md)!
