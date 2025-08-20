@@ -75,7 +75,7 @@ Note: This is a standalone activity and is not dependent on other activities.
     
     ![alt text](/resources/pcs-screen-103.png)
 
-3. Type "NIST" in the search bar on top right corner to filter the compliance standards. Click on "NIST SP 800-171 Revision 2".
+3. Type "NIST" in the search bar on top right corner to filter the compliance standards. Click on "NIST SP 800-171 Revision X".
 
     ![alt text](/resources/pcs-screen-104.png)
 
