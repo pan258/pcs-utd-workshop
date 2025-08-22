@@ -82,7 +82,7 @@ Note: If you do not see the same graph as in the below screenshot, then it’s p
     ![alt text](/resources/pcs-screen-40.png)
     ![alt text](/resources/pcs-screen-41.png)
 
-14. Click on the SQL Injection and click on View Additional Finding Details. You will now be directed to the Prisma Cloud Runtime Security WaaS (Web Application and API Security) console, which was responsible for detecting this attack. Here we will be able to see more information about the attack.
+14. Click on the SQL Injection, mouse over the View Additional Finding Details and right click open link in new tab. You will now be directed to the Prisma Cloud Runtime Security WaaS (Web Application and API Security) console, which was responsible for detecting this attack. Here we will be able to see more information about the attack.
 Note: to add Date to the filter with start date:1 Nov 2023 and end date: current.
 
     ![alt text](/resources/pcs-screen-42.png)
