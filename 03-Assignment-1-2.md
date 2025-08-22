@@ -146,7 +146,7 @@ Cloud Infrastructure Entitlement Management (CIEM) provides users with broad vis
 
     ![alt text](/resources/pcs-iam-screen-3.png) 
 
-4. Review the Actions and Last Access to observe the various write permissions attached and the last usage time
+4. Change View Mode: Table and Review the Actions and Last Access to observe the various write permissions attached and the last usage time
 
     ![alt text](/resources/pcs-iam-screen-4.png)    
 
