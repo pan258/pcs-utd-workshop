@@ -33,7 +33,7 @@ Note: If you do not see the same graph as in the below screenshot, then it’s p
     ![alt text](/resources/pcs-screen-26.png)
 
 5. Within the graph, you can see the traffic flow and the complete attack path. The traffic enters through the **Internet Gateway** and hits the **Sales and Trading cnsp-app4** EC2 instance. This instance has an IAM role **sales-trading-admin-role-cnsp-app4** attached to it, which has wildcard access to S3 bucket and also access to **prisma-cloud-pcds-bucket** S3 Bucket. As this instance is vulnerable to SQL and Code injection attacks, the attacker can potentially perform a Data exfiltration from the S3 bucket through the compromised host. This is represented by the Attack Path.
-6. Within the graph, clicking on the Vulnerabilities Icon and clicking on any Vulnerability will provide more information about the vulnerability. On the selected Vulnerability. clicking on View Details will open an additional findings sidecar.
+6. Within the graph, clicking on the Vulnerabilities Icon and clicking on any Vulnerability will provide more information about the vulnerability. Click on a Vulnerability and thereafter click on View Details will open an additional findings sidecar.
 
     ![alt text](/resources/pcs-screen-27.png)
     ![alt text](/resources/pcs-screen-28.png)
